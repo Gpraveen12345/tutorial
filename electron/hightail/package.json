@@ -1,0 +1,11 @@
+{
+    "name":"hightail",
+    "version":"1.0.0",
+    "main":"main.js",
+    "dependencies": {
+        "electron": "^4.0.4"
+      },
+      "script":{
+          "start":"electron ."
+      }
+}

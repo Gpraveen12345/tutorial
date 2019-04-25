@@ -1,0 +1,19 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^4.0.4",
+    "electron-titlebar-windows": "^3.0.0"
+  },
+  "script": {
+    "start": "electron ."
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
